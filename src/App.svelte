@@ -1,14 +1,14 @@
 <script>
-  import Facturas from "./components/Facturas.svelte";
-  import GraficoFacturas from "./components/GraficoFacturas.svelte";
+  import Facturas from './components/Facturas.svelte';
+  import GraficoFacturas from './components/GraficoFacturas.svelte';
 </script>
 
 <style>
   .main-container {
-    max-width: 800px;
+    max-width: 960px;
     margin: 0 auto;
     padding: 20px;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
   h1 {
